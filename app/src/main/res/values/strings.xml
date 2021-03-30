@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sayi Tahmin Oyunu</string>
+    <string name="score">Skorunuz:</string>
+    <string name="tahmin_et">TAHMİN ET</string>
+    <string name="tahminSay">Tahmin sayısı giriniz:</string>
+    <string name="title">Sayı Tahmin Oyunu</string>
+    <string name="tahmin_giris">Lütfen bir sayı giriniz:</string>
+</resources>
